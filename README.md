@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/minhhncs"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
+<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
