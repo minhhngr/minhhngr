@@ -1,9 +1,29 @@
 # Hello, I'm Minh Huynh 🙋‍
-## 💻👨‍💻 QC Automation Engineer 
+## 💻👨‍💻 QA/QC Automation Engineer 
+
+<a href="https://www.linkedin.com/in/minhhncs/">
+  <img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" align="right" alt="Minh Huỳnh's Dev Card"/>
+</a>
 
 <hr>
 
-<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
+<h3 align="left"> Technical Skills </h3>
+
+- Comming Soon
+- ...
+
+<hr>
+
+<h3 align="left"> Soft Skills </h3>
+
+- Comming Soon
+- ...
+
+<hr>
+
+
+
+
 
 <!--
 **minhhngr/minhhngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
