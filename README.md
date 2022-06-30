@@ -1,5 +1,5 @@
-<h1>Hello, I'm Minh Huynh 🙋‍</h1>
-<h2>💻👨‍💻 QC Automation Engineer</h2>
+# Hello, I'm Minh Huynh 🙋‍
+## 💻👨‍💻 QC Automation Engineer 
 
 <hr>
 
