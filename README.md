@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Minh Huynh</h1>
+<h2 align="center"><q>QC Automation Engineer</q></h2>
+
+<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
 
 <!--
 **minhhngr/minhhngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
+
