@@ -3,9 +3,7 @@
 
 <hr>
 
-<a href="https://www.linkedin.com/in/minhhncs/">
-<img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/>
-</a>
+<a href="https://www.linkedin.com/in/minhhncs/"><img src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" width="400" alt="Minh Huỳnh's Dev Card"/></a>
 
 <!--
 **minhhngr/minhhngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
