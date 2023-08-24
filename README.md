@@ -2,7 +2,6 @@
 ## QA/QC in Automation Team
 ### Contact with me: 
 - Gmail:  minhhncs@gmail.com
-- Linked: https://www.linkedin.com/in/minhhncs/
 - Skype:  live:minhhncs
 - Phone:  090 266 7474
 
