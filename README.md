@@ -1,14 +1,14 @@
 # Hello there, I'm Minh - Huynh Nhat Minh 🙋‍
-## QA/QC in Automation Team
-### Contact with me: 
-- Gmail:  minhhncs@gmail.com
-- Skype:  live:minhhncs
-- Phone:  090 266 7474
+## Software Automation Engineer
+### Contact with me
+- Gmail   :  minhhngr@gmail.com (minhhncs@gmail.com)
+- Skype   :  live:minhhncs
+- Websites:  TBD...
 
 <hr>
 
 <a href="https://app.daily.dev/minhhncs">
-  <img align="right" src="https://github.com/minhhnfloware/minhhnfloware/blob/main/devcard.svg" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
+  <img align="right" src="https://github.com/minhhngr/minhhngr/blob/main/devcard.svg" min-width="250" min-height="250" width="300" alt="Minh Huỳnh's Dev Card"/>
 </a>
 
 ## Tech Stack 🛠
